@@ -9,3 +9,7 @@
 ### DAY-02
 - Basics for Machine Learning 
 : Random number, Bootstraping, Correlation, Covarience, Data Distribution
+
+### DAY-03
+- Started new Stock dataset BTC price evaluation
+- The pandas of kaggle is running with the matplotlib all from its creator
