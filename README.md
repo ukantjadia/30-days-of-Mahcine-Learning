@@ -13,3 +13,7 @@
 ### DAY-03
 - Started new Stock dataset BTC price evaluation
 - The pandas of kaggle is running with the matplotlib all from its creator
+
+### DAY-04
+* Learn the matplotlib.pyplot from creator documents
+
