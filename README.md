@@ -19,3 +19,6 @@
 
 ### DAY-05
 - Learn the seaborn, ann, svr and work on the BTC price data
+- Bitcoing prediction: dataset : [link](https://www.kaggle.com/datasets/pavelbiz/monthly-btc-rate-from-2014-to-present)
+- colab link : [link](https://colab.research.google.com/drive/1ZOIqrT8fz2ZB70r2g5FgJbRwqQnWZGgs?usp=sharing)
+
