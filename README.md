@@ -17,3 +17,5 @@
 ### DAY-04
 * Learn the matplotlib.pyplot from creator documents
 
+### DAY-05
+- Learn the seaborn, ann, svr and work on the BTC price data
