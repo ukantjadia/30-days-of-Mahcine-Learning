@@ -1,6 +1,4 @@
- # 1.
- # 2. 
- # 3. Summary Functions and Maps
+ # 1. Summary Functions and Maps
 ```python
 DataFrame.col_name.median()
 ```
