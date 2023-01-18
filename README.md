@@ -6,6 +6,7 @@
 - Dataset [link](https://www.kaggle.com/datasets/whenamancodes/airbnb-inc-stock-market-analysis)
 - [share] (https://colab.research.google.com/drive/1H7R6rfayjGNeHis7yokAUJKoonRuTqFa?usp=sharing)
 
+
 ### DAY-02
 - Basics for Machine Learning 
 : Random number, Bootstraping, Correlation, Covarience, Data Distribution
@@ -24,4 +25,10 @@
 
 ### DAY-06
 - learn seaborn notebook added.
+- colab [link](https://colab.research.google.com/drive/1FgTgQbKFSmgXk6oCVf13a_cIEFvonLRk?usp=sharing)
+
+## DAY-07
++ Completed the Seaborn sample project.
++ Google Colab Link: [link](https://colab.research.google.com/drive/1FgTgQbKFSmgXk6oCVf13a_cIEFvonLRk?usp=sharing)
++ Blog link : [ukantjadia.me/posts](ukantjadia.me/posts)
 
