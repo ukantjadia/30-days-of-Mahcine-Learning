@@ -32,3 +32,7 @@
 + Google Colab Link: [link](https://colab.research.google.com/drive/1FgTgQbKFSmgXk6oCVf13a_cIEFvonLRk?usp=sharing)
 + Blog link : [ukantjadia.me/posts](ukantjadia.me/posts)
 
+## DAY-08
+## DAY-09
+## DAY-10
+- learn EDA with covid data, take help from some other notes
