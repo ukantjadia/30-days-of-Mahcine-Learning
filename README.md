@@ -1,4 +1,4 @@
-# 30-days-of-Machine-Learning
+# 30-days-of-Machin[[handle_missing_data]]e-Learning
 --
 
 ### DAY-01
@@ -36,3 +36,7 @@
 ## DAY-09
 ## DAY-10
 - learn EDA with covid data, take help from some other notes
+## DAY-11
+## DAY-12
+## DAY-13
+- learn about data cleaning from linkedin
