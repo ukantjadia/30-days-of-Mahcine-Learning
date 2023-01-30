@@ -3,7 +3,7 @@
 # Map for the scraping 
 
 - create the soup object 
-- *** create the function which loop the all possible anchor*[0-9], and get the all data availabel in the anchor    ***
+- ***create the function which loop the all possible anchor\*[0-9], and get the all data availabel in the anchor***
 
 - possible data in the anchor 
 > aartical class review-*[0-9]
