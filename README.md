@@ -30,7 +30,6 @@
 ## DAY-07
 + Completed the Seaborn sample project.
 + Google Colab Link: [link]
-+ Blog link: [ukantjadia.me/blog](ukantjadia.me/blog)
 
 ## DAY-08
 ## DAY-09
