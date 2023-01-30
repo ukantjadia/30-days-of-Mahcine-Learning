@@ -26,7 +26,7 @@
 ### DAY-06
 - learn seaborn notebook added.
 - collab [link](https://colab.research.google.com/drive/1FgTgQbKFSmgXk6oCVf13a_cIEFvonLRk?usp=sharing)
-
+- Blog Link: [www.ukantjadia.me/blog](ukantjadia.me/blog)
 ## DAY-07
 + Completed the Seaborn sample project.
 + Google Colab Link: [link]
