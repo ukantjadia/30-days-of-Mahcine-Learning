@@ -43,3 +43,11 @@
 ## DAY-16
 ## DAY-17
 - Completed the EDA project with Covid-19 data
+
+## DAY-18
+## DAY-19
+- COVID-19 EDA Sample project is ready to post
+- Dataset link: [dataset](https://www.kaggle.com/datasets/swaptr/covid19-state-data)
+- notebook link: [notebook](https://colab.research.google.com/drive/1XGbvb6vHTmOpxEebnkjjiewxd1P6M5Tw?usp=sharing)
+- website : [ukantjadia.me](ukantjadia.me)
+- 

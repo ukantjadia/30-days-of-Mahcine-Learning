@@ -1,0 +1,39 @@
+recently, I learned about data exploration and how to extract information from the data. With this, I also learned about visualization with Seaborn.
+
+Now, I have done an EDA Sample Project on the India geographical dataset of COVID-19.
+
+
+Problem Definition for COVID-19 EDA Sample Project:
+
+1. Analyze the association between the number of doses taken and the number of deaths in each state.
+
+2. Calculate the growth rate of confirmed cases and death rate by state.
+
+3. Calculate the distribution of doses among the population of each state.
+
+4. Compare the population of each state based on the different doses taken.
+
+
+I followed complete workflow stages to complete the task in terms of data extraction and visualization for better understanding.
+
+
+Workflow stages for COVID-19 EDA Project:
+
+1. Question or Problem Definition.
+
+2. Accquire training and testing data.
+
+3. Wrangle, prepare, and cleanse the data(preprocessing and cleaning data).
+
+4. Analyze, identify patterns, and explore the data(Visualization and information extration).
+
+5. Conclusion (Extracted information).
+
+
+Earlier I learned about visualization with Seaborn. Along with that, I try to utilize those skills and
+
+
+
+
+
+#india #data #growth #project #training #testing #covid #visualization #dataanalytics #data #featureengineering #datainsights #datascience #covid19 
