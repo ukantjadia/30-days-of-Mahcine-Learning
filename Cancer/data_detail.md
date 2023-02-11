@@ -119,3 +119,25 @@ features:
 > - filter : Does the cigarette have a filter?
 > - pack : hard pack, soft pack 
 > - mentho : lis the cigarette menthol?
+
+---
+- [This](https://www.kaggle.com/datasets/thedevastator/us-states-tobacco-use-prevalence) dataset contains 38.0k instances and 30 attributes.
+- This dataset from the Centers for Disease Control and Prevention (CDC) provides state-based surveillance information related to tobacco use among American adults from 1996 to 2010. 
+> - YEAR 	:Year of survey (Integer)
+> - LocationAbbr :	Abbreviation of the state (String)
+> - LocationDesc 	:Full name of the state (String)
+> - TopicType 	:Type of topic (String)
+> - TopicDesc :	Description of the topic (String)
+> - MeasureDesc :	Description of the measure (String)
+> - DataSource 	:Source of the data (String)
+> - Response 	:Response to the survey (String)
+> - Data_Value_Unit :	Unit of the data value (String)
+> - Data_Value_Type 	:Type of the data value (String)
+> - Data_Value_Footnote_Symbol :	Symbol of the data value footnote (String)
+> - Data_Value_Std_Err 	:Standard error of the data value (Float)
+> - Sample_Size 	:Sample size of the survey (Integer)
+> - Gender 	:Gender of the respondent (String)
+> - Race 	:Race of the respondent (String)
+> - Age 	:Age of the respondent (String)
+> - Education :	Education level of the respondent (String)
+> - GeoLocation 	:Geographic location of the respondent (String)
