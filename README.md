@@ -51,3 +51,15 @@
 - notebook link: [notebook](https://colab.research.google.com/drive/1XGbvb6vHTmOpxEebnkjjiewxd1P6M5Tw?usp=sharing)
 - website : [ukantjadia.me](ukantjadia.me)
 - 
+## DAY-25
+- internshala certificate link [link](https://trainings.internshala.com/s/v/2707987/bf9c7c8b)
+
+```text
+A little progress each day adds up to significant results!
+I am Elated to share my recent accomplishment of completing the Data Science training from Internshala Trainings powered by Analytics Vidhya. I am thrilled to share my accomplishment with my network. I have gained a wealth of knowledge and hands-on experience in the field. I am excited to share my skills and make a positive impact through data-driven projects.
+
+
+#internshala #internshalatrainings #analyticsvidhya #data #training #experience #share #network #projects #datascience #analytics
+
+
+```
