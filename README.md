@@ -41,6 +41,7 @@
 - learn about data cleaning from linkedin
 
 ## DAY-16
+<script src="https://gist.github.com/ukantjadia/1ebc4e77b019242b0ccb2ebeca82a78b.js"></script>
 ## DAY-17
 - Completed the EDA project with Covid-19 data
 
